@@ -66,9 +66,10 @@ API REST de feature flags desenvolvida para demonstrar práticas de desenvolvime
 
 ### 📫 Contato
 
-- **LinkedIn:** [William de Freitas](https://www.linkedin.com/in/william-freitas-768b2617a/)
-- **E-mail:** williamfacme@gmail.com
-- **GitHub:** [github.com/isqualham](https://github.com/isqualham)
+- 💼 **LinkedIn:** [William de Freitas](https://www.linkedin.com/in/william-freitas-768b2617a/)
+- 📧 **E-mail:** [williamfacme@gmail.com](mailto:williamfacme@gmail.com)
+- 💬 **WhatsApp:** [Fale comigo](https://wa.me/5565999117323)
+- 💻 **GitHub:** [github.com/isqualham](https://github.com/isqualham)
 
 ---
 
